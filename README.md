@@ -8,7 +8,7 @@
 
 + Python tensorflow
 
-+ x64 NASM Assembly
++ Dart & Flutter
 
 👯 I’m looking to collaborate on an atom package: [Hadname/exec-in-cmd](https://github.com/Hadname/exec-in-cmd)
 
