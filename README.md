@@ -8,10 +8,6 @@
 
 :link: [liao2000.github.io](liao2000.github.io)
 
-🌱 I'm currently learning
+:heart: C, Go
 
-+ Python tensorflow
-
-+ Flutter
-
-+ Kotlin
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=liao2000&theme=vue) ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=liao2000&theme=vue)
