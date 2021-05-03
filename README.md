@@ -6,7 +6,7 @@
 
 👯 I'm looking to collaborate on an atom package: [Hadname/exec-in-cmd](https://github.com/Hadname/exec-in-cmd)
 
-:link: [liao2000.github.io](liao2000.github.io)
+:link: [liao2000.github.io](https://liao2000.github.io)
 
 :heart: C, Go
 
