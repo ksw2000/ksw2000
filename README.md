@@ -1,13 +1,15 @@
-### Hi there 👋, I'm Kashiwa.
+## Hi there 👋, I'm Kashiwa.
 
-[![](https://img.shields.io/badge/Hadname-%40liao2000-green)](https://link.had.name/liao2000/)
+🏛 Senior student major in computer science and minor in horticulture at NCHU
 
-🏛 Junior student major in computer science and minor in horticulture at NCHU
+👯 I'm currently the president of [School Idol Club NCHU](https://school-idol-nchu.github.io/)
 
-👯 I'm looking to collaborate on an atom package: [Hadname/exec-in-cmd](https://github.com/Hadname/exec-in-cmd)
+📖 HackMD 111級中興資工共筆 [@NCHU-CSE-111](https://hackmd.io/@NCHU-CSE-111)
 
-:link: [liao2000.github.io](https://liao2000.github.io)
+🔗 [liao2000.github.io](https://liao2000.github.io)
 
-:heart: C, Go
+✍️ I'm currently learning **Kotlin** and **Image segmentation**
+
+❤️ Go, C, Dart
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=liao2000&theme=vue) ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=liao2000&theme=vue)
