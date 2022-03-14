@@ -2,13 +2,13 @@
 
 🏛 Senior student major in computer science and minor in horticulture at NCHU
 
-👯 I'm currently the president of [School Idol Club NCHU](https://school-idol-nchu.github.io/)
-
 📖 HackMD 111級中興資工共筆 [@NCHU-CSE-111](https://hackmd.io/@NCHU-CSE-111)
 
 🔗 [liao2000.github.io](https://liao2000.github.io)
 
-✍️ I'm currently learning **Kotlin** and **Image segmentation**
+✍️ I'm currently learning **Kotlin** and **Android**
+
+👊 全速前進 ヨーソロー
 
 ❤️ Go, C, Dart
 
