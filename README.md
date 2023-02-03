@@ -1,11 +1,16 @@
 ## Hi there 👋, I'm Kashiwa.
 
+![](https://ksw2000.github.io/img/me.jpg?20220501)
+
 I'm now study in [Interconnection Networks and High-Performance Computation Lab](https://algorithm.csie.ncku.edu.tw/), NCKU
 
 🔗 [ksw2000.github.io](https://ksw2000.github.io)
 
-✍️ I'm currently learning **Kotlin** and **Android**
+✍️ I'm currently learning **graph theory and graph algorithms**.
 
 ❤️ Favorite Language: Go
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ksw2000&theme=vue) ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ksw2000&theme=vue)
+:email: ksw2000@outlook.jp
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ksw2000&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ksw2000&theme=github)
