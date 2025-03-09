@@ -1,4 +1,4 @@
-I'm currently job hunting! Looking for a backend engineering position using Go, preferably in Taipei or Tokyo.
+Looking for a backend engineering position using Go, preferably in Taipei or Tokyo.
 
 ❤️ Favorite Language: Go
 
