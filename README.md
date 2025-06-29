@@ -1,5 +1,3 @@
-Looking for a backend engineering position using Go, preferably in Taipei or Tokyo.
-
 ❤️ Favorite Language: Go
 
 🎁 Donation: [Wish list](https://www.amazon.jp/hz/wishlist/ls/3C90WA5FDTRPN)
